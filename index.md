@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="/assets/style.css">
 <div class="wrapper">
     <header>
+        <h1><a href="https://www.lilystudios.xyz/">Lily Studios</a></h1>
         <img src="https://www.lilystudios.xyz/genel.png" alt="Logo">
     </header>
     <section>
@@ -10,6 +11,9 @@
         <p>Birçoğunu google play üzerinden bir çoğunu ise apk olarak telefonlarınıza kurmuşsunuzdur. Fakat kurduğunuz anime izleme uygulamaları sizi hiçbir zaman tatmin etmemiştir. Bunun sebebi ise uygulamaların kullanışsız ve ekli animelerin çok az olmasıdır.</p>
         <p>Anime izle uygulamamız ile 3600 den fazla animeye hızlı, kolay ve kullanışlı bir şekilde erişim sağlayabileceksiniz.</p>
         <p>Uygulamayı kullanırken yaşadığınız hata ve sorunları bu sayfadan veya uygulama içerisindeki iletişim bölümünden bize bildirebilirsiniz. Sadece bug ve hata değil, istek ve sorunlarınızı da bize bildirebilirsiniz.</p>
+        <div class="text-center mb-3">
+            <a href="https://play.google.com/store/apps/details?id=com.botbenson.animeizle" target="_blank" rel="noopener noreferrer">Anime izle uygulamasını indir</a>
+        </div>
         <div class="showCenter text-center w-100">
             <img src="https://www.lilystudios.xyz/images/image-1.png" alt="Android Anime izleme uygulaması">
             <img src="https://www.lilystudios.xyz/images/image-2.png" alt="Telefonda anime izle">
