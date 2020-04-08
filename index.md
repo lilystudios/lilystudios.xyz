@@ -1,4 +1,5 @@
-
+<link rel="stylesheet" href="/assets/theme.css">
+<link rel="stylesheet" href="/assets/style.css">
 <div class="wrapper">
     <header>
         <img src="https://www.lilystudios.xyz/genel.png" alt="Logo">
