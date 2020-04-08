@@ -8,5 +8,6 @@ Anime izle uygulamamız ile 3600 den fazla animeye hızlı, kolay ve kullanışl
 
 Uygulamayı kullanırken yaşadığınız hata ve sorunları bu sayfadan veya uygulama  içerisindeki iletişim bölümünden bize bildirebilirsiniz. Sadece bug ve hata değil, istek ve sorunlarınızı da bize bildirebilirsiniz.
 
-<img src="https://www.lilystudios.xyz/images/image-1.png" width="50%" alt="Android Anime izleme uygulaması" />
-<img src="https://www.lilystudios.xyz/images/image-2.png" width="50%" alt="Telefonda anime izle" />
+<center>
+<img src="https://www.lilystudios.xyz/images/image-1.png" width="48%" alt="Android Anime izleme uygulaması" /><img src="https://www.lilystudios.xyz/images/image-2.png" width="48%" alt="Telefonda anime izle" />
+</center>
