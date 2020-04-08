@@ -1,5 +1,7 @@
 ## Android Anime İzleme Uygulaması
 
+<link rel="stylesheet" type="text/css" href="https://www.lilystudios.xyz/assets/style.css">
+
 Anime severleri bir araya toplayan bu uygulama. Mobil telefonlardan anime izleyen kişiler için yapılmıştır. Android telefonlarında anime izlemek isterken birçok uygulama denemişlerdir. 
 
 Birçoğunu google play üzerinden bir çoğunu ise apk olarak telefonlarınıza kurmuşsunuzdur. Fakat kurduğunuz anime izleme uygulamaları sizi hiçbir zaman tatmin etmemiştir. Bunun sebebi ise uygulamaların kullanışsız ve ekli animelerin çok az olmasıdır.
